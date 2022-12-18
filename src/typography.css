@@ -5,7 +5,6 @@ body {
 }
 
 .large-title {
-  color: #0F172A;
   font-weight: 600;
   font-size: 28px;
   line-height: 34px;
@@ -18,14 +17,12 @@ body {
 }
 
 .text-lg {
-  color: #64748B;
   font-weight: 500;
   font-size: 15px;
   line-height: 18px;
 }
 
 .text-md {
-  color: #64748B;
   font-weight: 400;
   font-size: 15px;
   line-height: 18px;
