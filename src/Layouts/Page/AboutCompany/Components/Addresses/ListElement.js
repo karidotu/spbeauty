@@ -7,8 +7,8 @@ import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';
 const Option = styled.div`
     outline: none;
     border-radius: 0px;
-    border: solid #152842 1px;
-    background-color: #D9E2EF;
+    border: solid #152842 0px;
+    background-color: т;
     color: #666787;
 `;
 

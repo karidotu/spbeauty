@@ -13,10 +13,10 @@ function PrimaryButton(props) {
         font-weight: 450;
         color: white;
         &:hover {
-            background: #3B82F6;
+            background: #629BF8;
         }
         &:active {
-            background: #0F172A;
+            background: #6F747F;
         }
     `;
     return (
