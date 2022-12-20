@@ -32,3 +32,11 @@ Left: 24px;
     left: 237px;
     top: 64px;
                 }      
+
+ .info {
+    /* Auto layout */
+   Top: 50px;
+   Left: 72px;
+   Width: 447px;
+   Height: 398px;
+                }                 
