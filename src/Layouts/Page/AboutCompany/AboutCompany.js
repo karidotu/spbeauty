@@ -1,6 +1,7 @@
 import Heading from "./Components/Heading";
 import General from "./Components/General/General";
 import Addresses from "./Components/Addresses/Addresses";
+
 function AboutCompany() {
     return (
         <div>

@@ -9,7 +9,7 @@ const Option = styled.div`
     outline: none;
     border-radius: 0px;
     border: solid #152842 0px;
-    background-color: т;
+    background-color: ;
     color: #666787;
 `;
 
