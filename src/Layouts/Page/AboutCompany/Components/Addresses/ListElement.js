@@ -5,18 +5,14 @@ import RemoveIcon from '../../../../../Icons/RemoveIcon';
 import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';
 import MessagesIcon from '../../../../../Icons/MessagesIcon';
 
-const Container = styled.div`
-    
-    outline: none;
+
+const Option = styled.div`
+    color: #0F172A; outline: none;
     border-radius: 0px;
     border: solid #152842 0px;
     background-color: none;
-    Width:405px;
+    Width:300px;
     Height:60px;
-`;
-
-const Option = styled.div`
-    color: #0F172A;
 `;
 
 function ListElement(props) {
