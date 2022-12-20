@@ -7,7 +7,10 @@
    width: 453px;
    height: 420px;
    border: 1px solid #ECEEF1;
-   border-radius: 8px; }
+   border-radius: 8px; 
+   Top: 146px;
+   Left: 615px;
+}
 
 .item1 {
 /* Auto layout */
@@ -18,4 +21,14 @@ padding: 0px;
 gap: 8px;
 width: 405px;
 height: 266px;
-       }
+Top: 72px;
+Left: 24px;
+  }
+
+.container {
+    /* Auto layout */
+    width: 1140px;
+    height: 836px;
+    left: 237px;
+    top: 64px;
+                }      

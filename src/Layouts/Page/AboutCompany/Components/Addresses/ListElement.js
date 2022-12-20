@@ -11,7 +11,7 @@ const Option = styled.div`
     border-radius: 0px;
     border: solid #152842 0px;
     background-color: none;
-    Width:300px;
+    Width:350px;
     Height:60px;
 `;
 
